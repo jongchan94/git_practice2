@@ -1,7 +1,12 @@
 team: Kenneth
 
+<<<<<<< HEAD
 manager: Donald
 coach: Kenneth
+=======
+manager: Deborah
+coach: Grace
+>>>>>>> conflict-1
 members:
 - Linda
 - William
